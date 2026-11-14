@@ -1,13 +1,7 @@
-# SECURITY POLICY
+# Security Policy
 
-## Supported Versions
-
-When a new **minor** version (`1.x`) is released, the previous one will continue to receive security and bug fixes for *at least* 3 months.
-
-When a new **major** version is released (`1.0`, `2.0`, etc), the previous one (`0.19.x`) will receive bug fixes for *at least* 3 months and security updates for 6 months after that new release comes out.
-
-(This policy may change in the future and exceptions may be made on a case-by-case basis.)
+The only completely secure system is the one that doesn't exist in the first place. Having said that, we take security seriously.
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this package, please use the [Tidelift security contact form](https://tidelift.com/security) or email Colin O'Dell at <colinodell@gmail.com>. All security vulnerabilities will be promptly addressed. Please do not disclose security-related issues publicly until a fix has been announced.
+Please disclose potential security issues by email to [joshbruce](https://github.com/joshbruce). We will provide an initial assessment of security reports within 72 hours and should apply patches within 2 weeks (also, feel free to contribute a fix for the issue).
